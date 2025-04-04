@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.db12c05b.css",
-    "main.js": "/static/js/main.c9391b78.js",
-    "static/js/453.620e2249.chunk.js": "/static/js/453.620e2249.chunk.js",
-    "index.html": "/index.html",
-    "main.db12c05b.css.map": "/static/css/main.db12c05b.css.map",
-    "main.c9391b78.js.map": "/static/js/main.c9391b78.js.map",
-    "453.620e2249.chunk.js.map": "/static/js/453.620e2249.chunk.js.map"
+    "main.css": "/saitarun1801/ShoppingCart/static/css/main.db12c05b.css",
+    "main.js": "/saitarun1801/ShoppingCart/static/js/main.fa20cf7c.js",
+    "static/js/453.620e2249.chunk.js": "/saitarun1801/ShoppingCart/static/js/453.620e2249.chunk.js",
+    "index.html": "/saitarun1801/ShoppingCart/index.html",
+    "main.db12c05b.css.map": "/saitarun1801/ShoppingCart/static/css/main.db12c05b.css.map",
+    "main.fa20cf7c.js.map": "/saitarun1801/ShoppingCart/static/js/main.fa20cf7c.js.map",
+    "453.620e2249.chunk.js.map": "/saitarun1801/ShoppingCart/static/js/453.620e2249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db12c05b.css",
-    "static/js/main.c9391b78.js"
+    "static/js/main.fa20cf7c.js"
   ]
 }
